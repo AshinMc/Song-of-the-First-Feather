@@ -1,0 +1,13 @@
+[gd_scene format=3 uid="uid://8jbsp8aln5o"]
+
+[node name="Home" type="Node2D"]
+
+[node name="TileMapLayer" type="TileMapLayer" parent="."]
+
+[node name="Label" type="Label" parent="."]
+anchors_preset = -1
+offset_left = 544.0
+offset_top = 289.0
+offset_right = 628.0
+offset_bottom = 312.0
+text = "Nothing rn"
